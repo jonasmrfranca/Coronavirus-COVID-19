@@ -29,3 +29,5 @@ http://www.jmrf.com.br
 
 
 Contact: jonasmrfranca@icloud.com
+LinkedIn: https://www.linkedin.com/in/jonasmrfranca
+GitHub: https://www.github.com/jonasmrfranca
