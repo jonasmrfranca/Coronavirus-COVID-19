@@ -16,7 +16,7 @@ Last but not least, this project turned real because of the brilliant dataset pr
 
 #### VISUAL MAP ####
 
-http://www.jmrf.com.br
+http://www.jmrf.com.br  (DESKTOP)
 
 
 #### TECHNOLOGIES ####
@@ -28,6 +28,7 @@ http://www.jmrf.com.br
 - GeoPy - https://geopy.readthedocs.io/en/stable/
 
 
-Contact: jonasmrfranca@icloud.com
-LinkedIn: https://www.linkedin.com/in/jonasmrfranca
-GitHub: https://www.github.com/jonasmrfranca
+#### CONTACT ####
+- Email: jonasmrfranca@icloud.com
+- LinkedIn: https://www.linkedin.com/in/jonasmrfranca
+- GitHub: https://www.github.com/jonasmrfranca
